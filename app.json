@@ -20,7 +20,11 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true
+      "edgeToEdgeEnabled": true,
+      "package": "com.alexanderott.proaudioreactcompilerbug"
+    },
+    "experiments": {
+      "reactCompiler": true
     },
     "web": {
       "favicon": "./assets/favicon.png"
