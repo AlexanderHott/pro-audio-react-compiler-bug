@@ -1,5 +1,7 @@
 # `react-native-audio-pro` react compiler bug
 
+Tracking <https://github.com/evergrace-co/react-native-audio-pro/issues/84>
+
 zustand store is undefined in `logDebug` function when using react compiler
 
 ```bash
